@@ -4,3 +4,17 @@ pandas
 pydeck
 streamlit
 seaborn
+matplotlib.pyplot
+streamlit as st
+pandas as pd
+seaborn as sns
+matplotlib.pyplot as plt
+plotly.express as px
+sklearn.impute import SimpleImputer
+sklearn.cluster import KMeans
+sklearn.decomposition import PCA
+sklearn.model_selection import train_test_split
+sklearn.ensemble import RandomForestClassifier
+sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+plotly.graph_objects as go
+PIL import Image
