@@ -3,7 +3,7 @@ numpy
 pandas
 pydeck
 streamlit
-seaborn
+seaborn as sns
 matplotlib.pyplot
 streamlit as st
 pandas as pd
